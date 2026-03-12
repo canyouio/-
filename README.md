@@ -1,5 +1,3 @@
-
-```markdown
 # 智慧便利店实时监控大屏 (Smart Store Monitor)
 
 ## 📖 项目简介
